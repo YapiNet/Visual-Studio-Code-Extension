@@ -1,0 +1,7 @@
+{
+  "extension.description": "Yapi.net에서 부동산을 찾고 매물을 등록하며 중개 사무소를 관리하세요. 부동산 전문가를 위한 디지털 플랫폼입니다.",
+  "command.openPortal": "포털 열기",
+  "command.changeLanguage": "언어 변경",
+  "configuration.language": "Yapi 패널 및 메시지 언어입니다. 자동 설정은 VS Code 표시 언어를 따릅니다.",
+  "view.portal": "부동산 포털"
+}

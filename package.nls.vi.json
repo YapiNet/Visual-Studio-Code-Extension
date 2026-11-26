@@ -1,0 +1,7 @@
+{
+  "extension.description": "Khám phá, đăng tin và quản lý bất động sản với Yapi.net, nền tảng số dành cho các chuyên gia bất động sản.",
+  "command.openPortal": "Mở cổng thông tin",
+  "command.changeLanguage": "Đổi ngôn ngữ",
+  "configuration.language": "Ngôn ngữ bảng điều khiển và thông báo Yapi. Chế độ tự động theo ngôn ngữ hiển thị của VS Code.",
+  "view.portal": "Cổng bất động sản"
+}

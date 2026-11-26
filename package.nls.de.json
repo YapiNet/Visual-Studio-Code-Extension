@@ -1,0 +1,7 @@
+{
+  "extension.description": "Immobilien entdecken, Angebote veröffentlichen und Maklerbüros verwalten – mit Yapi.net, der digitalen Plattform für Immobilienprofis.",
+  "command.openPortal": "Portal öffnen",
+  "command.changeLanguage": "Sprache ändern",
+  "configuration.language": "Sprache der Yapi-Ansichten und Meldungen. Die automatische Auswahl folgt der Anzeigesprache von VS Code.",
+  "view.portal": "Immobilienportal"
+}

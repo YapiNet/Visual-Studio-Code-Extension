@@ -1,0 +1,7 @@
+{
+  "extension.description": "Yapi.netで物件を探し、掲載し、不動産事務所を管理。 不動産のプロのためのデジタルプラットフォームです。",
+  "command.openPortal": "ポータルを開く",
+  "command.changeLanguage": "言語を変更",
+  "configuration.language": "Yapiのパネルとメッセージの言語です。自動設定ではVS Codeの表示言語に従います。",
+  "view.portal": "不動産ポータル"
+}

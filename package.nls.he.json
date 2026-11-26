@@ -1,0 +1,7 @@
+{
+  "extension.description": "גלו נכסים, פרסמו מודעות ונהלו משרד תיווך עם Yapi.net, הפלטפורמה הדיגיטלית לאנשי מקצוע בתחום הנדל״ן.",
+  "command.openPortal": "פתיחת הפורטל",
+  "command.changeLanguage": "שינוי שפה",
+  "configuration.language": "שפת הלוחות וההודעות של Yapi. בחירה אוטומטית תואמת לשפת התצוגה של VS Code.",
+  "view.portal": "פורטל נדל״ן"
+}

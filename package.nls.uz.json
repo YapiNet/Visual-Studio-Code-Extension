@@ -1,0 +1,7 @@
+{
+  "extension.description": "Yapi.net orqali ko‘chmas mulkni toping, eʼlon joylang va ofisingizni boshqaring. Ko‘chmas mulk mutaxassislari uchun raqamli platforma.",
+  "command.openPortal": "Portalni ochish",
+  "command.changeLanguage": "Tilni oʻzgartirish",
+  "configuration.language": "Yapi panellari va xabarlari tili. Avtomatik tanlov VS Code interfeys tiliga mos keladi.",
+  "view.portal": "Ko‘chmas mulk portali"
+}

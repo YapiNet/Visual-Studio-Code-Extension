@@ -1,0 +1,123 @@
+{
+  "name": "yapi",
+  "displayName": "Yapi.net - Real Estate Platform",
+  "description": "%extension.description%",
+  "version": "0.1.3",
+  "publisher": "yapi-net",
+  "private": true,
+  "license": "UNLICENSED",
+  "engines": {
+    "vscode": "^1.106.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "icon": "media/icon.png",
+  "main": "./dist/extension.js",
+  "extensionKind": [
+    "ui"
+  ],
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": true
+    },
+    "virtualWorkspaces": {
+      "supported": true
+    }
+  },
+  "contributes": {
+    "commands": [
+      {
+        "command": "yapi.openPortal",
+        "title": "%command.openPortal%",
+        "category": "Yapi"
+      },
+      {
+        "command": "yapi.changeLanguage",
+        "title": "%command.changeLanguage%",
+        "category": "Yapi"
+      }
+    ],
+    "configuration": {
+      "title": "Yapi",
+      "properties": {
+        "yapi.language": {
+          "type": "string",
+          "enum": [
+            "auto",
+            "en",
+            "tr",
+            "ar",
+            "ru",
+            "zh",
+            "ja",
+            "az",
+            "ko",
+            "de",
+            "vi",
+            "th",
+            "he",
+            "uz",
+            "kk",
+            "ug"
+          ],
+          "default": "auto",
+          "scope": "application",
+          "description": "%configuration.language%"
+        }
+      }
+    },
+    "viewsContainers": {
+      "secondarySidebar": [
+        {
+          "id": "yapi",
+          "title": "Yapi",
+          "icon": "media/activitybar.svg"
+        }
+      ]
+    },
+    "views": {
+      "yapi": [
+        {
+          "id": "yapi.portal",
+          "name": "%view.portal%",
+          "type": "webview",
+          "icon": "media/activitybar.svg",
+          "contextualTitle": "Yapi",
+          "visibility": "visible"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "watch": "tsc -p . --watch",
+    "lint": "tsc -p . --noEmit",
+    "test": "npm run build && node --test test/*.test.cjs",
+    "vscode:prepublish": "npm run build",
+    "package": "vsce package --no-dependencies --skip-license --out yapi.vsix"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/vscode": "1.106.0",
+    "@vscode/vsce": "4.0.0",
+    "typescript": "5.9.3"
+  },
+  "l10n": "./l10n",
+  "homepage": "https://yapi.net",
+  "keywords": [
+    "real estate",
+    "property",
+    "property listings",
+    "real estate agents",
+    "property requests",
+    "live property tours",
+    "emlak",
+    "gayrimenkul",
+    "digital office"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YapiNet/Visual-Studio-Code-Extension.git"
+  }
+}

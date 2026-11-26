@@ -1,0 +1,7 @@
+{
+  "extension.description": "Yapi.net ile gayrimenkul keşfedin, ilan yayınlayın ve ofisinizi yönetin. Emlak profesyonelleri için dijital gayrimenkul platformu.",
+  "command.openPortal": "Portalı Aç",
+  "command.changeLanguage": "Dil Değiştir",
+  "configuration.language": "Yapi panellerinin ve mesajlarının dili. Otomatik seçim VS Code görüntüleme dilini izler.",
+  "view.portal": "Gayrimenkul Portalı"
+}

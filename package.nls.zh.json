@@ -1,0 +1,7 @@
+{
+  "extension.description": "通过 Yapi.net 探索房产、发布房源并管理房地产办公室，这是面向房地产专业人士的数字平台。",
+  "command.openPortal": "打开门户",
+  "command.changeLanguage": "切换语言",
+  "configuration.language": "Yapi 面板和消息的语言。自动模式跟随 VS Code 的显示语言。",
+  "view.portal": "房地产门户"
+}

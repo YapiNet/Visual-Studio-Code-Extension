@@ -1,0 +1,7 @@
+{
+  "extension.description": "اكتشف العقارات وانشر الإعلانات وأدر مكتبك العقاري مع Yapi.net، المنصة الرقمية للمتخصصين في العقارات.",
+  "command.openPortal": "فتح البوابة",
+  "command.changeLanguage": "تغيير اللغة",
+  "configuration.language": "لغة لوحات Yapi ورسائلها. يتبع الاختيار التلقائي لغة عرض VS Code.",
+  "view.portal": "بوابة العقارات"
+}

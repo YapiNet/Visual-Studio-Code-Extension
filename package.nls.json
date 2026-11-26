@@ -1,0 +1,7 @@
+{
+  "extension.description": "Discover, list and manage real estate with Yapi.net — the property marketplace and digital office for real estate professionals.",
+  "command.openPortal": "Open Portal",
+  "command.changeLanguage": "Change Language",
+  "configuration.language": "Language for Yapi panels and messages. Automatic follows the VS Code display language.",
+  "view.portal": "Property Portal"
+}

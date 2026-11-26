@@ -1,0 +1,7 @@
+{
+  "extension.description": "Yapi.net ilə daşınmaz əmlakı kəşf edin, elan yerləşdirin və ofisinizi idarə edin. Əmlak mütəxəssisləri üçün rəqəmsal platforma.",
+  "command.openPortal": "Portalı aç",
+  "command.changeLanguage": "Dili dəyiş",
+  "configuration.language": "Yapi panellərinin və mesajlarının dili. Avtomatik seçim VS Code ekran dilini izləyir.",
+  "view.portal": "Əmlak portalı"
+}

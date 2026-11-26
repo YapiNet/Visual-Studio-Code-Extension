@@ -1,0 +1,7 @@
+{
+  "extension.description": "ค้นหา ลงประกาศ และจัดการอสังหาริมทรัพย์กับ Yapi.net แพลตฟอร์มดิจิทัลสำหรับผู้เชี่ยวชาญด้านอสังหาริมทรัพย์",
+  "command.openPortal": "เปิดพอร์ทัล",
+  "command.changeLanguage": "เปลี่ยนภาษา",
+  "configuration.language": "ภาษาของแผงและข้อความ Yapi โหมดอัตโนมัติจะใช้ภาษาที่แสดงใน VS Code",
+  "view.portal": "พอร์ทัลอสังหาริมทรัพย์"
+}
