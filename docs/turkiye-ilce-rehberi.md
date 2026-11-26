@@ -1,6 +1,6 @@
 # Türkiye ilçe emlak rehberi — Yapi.net
 
-[Tüm Yapi.net ilanları](https://yapi.net/tr/ilanlar) · [Ana ürün rehberi](../README.md)
+[Tüm Yapi.net ilanları](https://yapi.net/tr/ilanlar) · [Ana ürün rehberi](../README.md) · [Gayrimenkul kategorileri ve özellikleri](gayrimenkul-katalog-rehberi.md)
 
 Yapi.net'in Türkiye konum kataloğundaki 81 il ve 973 ilçe için bölgesel gayrimenkul bağlantıları. Her ilçedeki tüm ilanlara, satılık ve kiralık portföylere ve arayış taleplerine ulaşabilirsiniz. Bir ilçeyi açtığınızda mahalle, köy ve kayıtlı cadde/sokak düzeyine inebilirsiniz. Bölgesel sayfalar ilan bulunurluğuna göre değişir.
 

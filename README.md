@@ -16,6 +16,9 @@ Resmî web sitesi: [yapi.net](https://yapi.net) · Platform tanıtımı: [Yapi.n
 ## İçindekiler
 
 - [Platformun sunduğu hizmetler](#platformun-sunduğu-başlıca-hizmetler)
+- [Yapi.net gayrimenkul kategorileri ve ilan türleri](#yapinet-gayrimenkul-kategorileri-ve-ilan-türleri)
+- [Gayrimenkul özellikleri](#gayrimenkul-özellikleri-hangi-niteliklere-göre-arama-yapılabilir)
+- [Tam kategori ve özellik kataloğu](docs/gayrimenkul-katalog-rehberi.md)
 - [Satılık ve kiralık gayrimenkul kategorileri](#satılık-ve-kiralık-gayrimenkul-kategorileri)
 - [Gayrimenkul arayış talepleri](#gayrimenkul-arayış-talepleri)
 - [Gayrimenkul rehberi](#gayrimenkul-rehberi)
@@ -55,6 +58,112 @@ Yapi.net, emlak şirketlerinin portföylerini, müşteri ilişkilerini, ekipleri
 | [Canlı gayrimenkul turları](https://yapi.net/tr/canli-turlar) | Gayrimenkulleri canlı yayın üzerinden incelemek |
 | [Emlak ofisleri](https://yapi.net/tr/emlak-ofisleri) | Emlak şirketlerine, danışmanlara ve portföylerine ulaşmak |
 | [Gayrimenkul blogu](https://yapi.net/tr/blog) | Yayınlanmış sektörel içerikleri okumak |
+
+## Yapi.net gayrimenkul kategorileri ve ilan türleri
+
+Yapi.net'in gayrimenkul kataloğu **5 ana kategori ve 74 alt ilan türünden** oluşur. Her kategori, farklı kullanım amaçlarını ve ilgili gayrimenkul özelliklerini bir araya getirir. Aşağıdaki bağlantılar bütün ilgili ilanları, satılık veya kiralık portföyleri keşfetmek içindir; belirli kategoride güncel ilan bulunması envantere bağlıdır.
+
+### Konut (16 ilan türü)
+
+Yaşam, oturum veya konut yatırımı için apartman daireleri, bağımsız evler, rezidanslar, kırsal ve sahil konutları. Oda düzeni, alan, bina yaşı, kat, ısıtma, donanım, ulaşım ve kullanım durumu karşılaştırılır.
+
+[Konut ilanları](https://yapi.net/tr/ilanlar/konut) · [Satılık konut](https://yapi.net/tr/satilik/konut) · [Kiralık konut](https://yapi.net/tr/kiralik/konut)
+
+**Alt kategoriler:** [Daire](https://yapi.net/tr/ilanlar/konut/daire), [Villa](https://yapi.net/tr/ilanlar/konut/villa), [Müstakil Ev](https://yapi.net/tr/ilanlar/konut/mustakil-ev), [Bina](https://yapi.net/tr/ilanlar/konut/bina), [Yazlık](https://yapi.net/tr/ilanlar/konut/yazlik), [Residence](https://yapi.net/tr/ilanlar/konut/rezidans), [Kooperatif](https://yapi.net/tr/ilanlar/konut/kooperatif), [Köy Evi](https://yapi.net/tr/ilanlar/konut/koy-evi), [Devremülk](https://yapi.net/tr/ilanlar/konut/devremulk), [Çiftlik Evi](https://yapi.net/tr/ilanlar/konut/ciftlik-evi), [Köşk ve Konak](https://yapi.net/tr/ilanlar/konut/kosk-konak), [Prefabrik](https://yapi.net/tr/ilanlar/konut/prefabrik), [Yalı Dairesi](https://yapi.net/tr/ilanlar/konut/yali-dairesi), [Yalı](https://yapi.net/tr/ilanlar/konut/yali), [Dağ Evi](https://yapi.net/tr/ilanlar/konut/dag-evi), [Oda](https://yapi.net/tr/ilanlar/konut/oda).
+
+### Arsa (22 ilan türü)
+
+Konut, ticaret, tarım, sanayi, turizm ve özel kullanım amaçlı parseller, araziler ve tarlalar. Arazi alanı, imar, emsal, gabari, tapu, altyapı, yol ve çevre koşulları değerlendirilir.
+
+[Arsa ilanları](https://yapi.net/tr/ilanlar/arsa) · [Satılık arsa](https://yapi.net/tr/satilik/arsa) · [Kiralık arsa](https://yapi.net/tr/kiralik/arsa)
+
+**Alt kategoriler:** [Tarla](https://yapi.net/tr/ilanlar/arsa/tarla), [İmarlı Ticari Arsa](https://yapi.net/tr/ilanlar/arsa/imarli-ticari), [Arazi](https://yapi.net/tr/ilanlar/arsa/arazi), [Özel Kullanım](https://yapi.net/tr/ilanlar/arsa/ozel-kullanim), [Bağ ve Bahçe](https://yapi.net/tr/ilanlar/arsa/bahce), [Depo, Antrepo İzinli](https://yapi.net/tr/ilanlar/arsa/depo-antrepo-izinli), [Sanayi İmarlı](https://yapi.net/tr/ilanlar/arsa/imarli-sanayi), [Muhtelif Arsa](https://yapi.net/tr/ilanlar/arsa/muhtelif-arsa), [İmarlı Konut Arsa](https://yapi.net/tr/ilanlar/arsa/imarli-konut), [Konut ve Ticaret Alanı](https://yapi.net/tr/ilanlar/arsa/konut-ticaret), [Turizm İmarlı](https://yapi.net/tr/ilanlar/arsa/turistik-arsa), [Çiftlik](https://yapi.net/tr/ilanlar/arsa/ciftlik), [Zeytinlik](https://yapi.net/tr/ilanlar/arsa/zeytinlik), [Ada](https://yapi.net/tr/ilanlar/arsa/ada), [Hastane (Sağlık Tesisi)](https://yapi.net/tr/ilanlar/arsa/hastane-saglik-tesisi), [Maden Ocağı](https://yapi.net/tr/ilanlar/arsa/maden-ocagi), [Okul (Eğitim Tesisi)](https://yapi.net/tr/ilanlar/arsa/okul-egitim-tesisi), [Bağ](https://yapi.net/tr/ilanlar/arsa/bag), [Sit Alanı](https://yapi.net/tr/ilanlar/arsa/sit-alani), [Toplu Konut İçin](https://yapi.net/tr/ilanlar/arsa/toplu-konut-icin-tahsis), [Turizm ve Konut Alanı](https://yapi.net/tr/ilanlar/arsa/turizm-ve-konut-alani), [İmarlı Villa Arsa](https://yapi.net/tr/ilanlar/arsa/imarli-villa).
+
+### İşyeri (25 ilan türü)
+
+Dükkan, mağaza, ofis, lojistik depo, üretim tesisi, iş merkezi ve diğer ticari gayrimenkuller. Faaliyet türüne uygunluk, alan, konum, erişim ve bina olanakları önemlidir.
+
+[İşyeri ilanları](https://yapi.net/tr/ilanlar/isyeri) · [Satılık i̇şyeri](https://yapi.net/tr/satilik/isyeri) · [Kiralık i̇şyeri](https://yapi.net/tr/kiralik/isyeri)
+
+**Alt kategoriler:** [Dükkan ve Mağaza](https://yapi.net/tr/ilanlar/isyeri/dukkan-magaza), [Ofis](https://yapi.net/tr/ilanlar/isyeri/ofis-buro), [Depo](https://yapi.net/tr/ilanlar/isyeri/depo-antrepo), [Büro](https://yapi.net/tr/ilanlar/isyeri/buro), [Fabrika](https://yapi.net/tr/ilanlar/isyeri/fabrika), [Atölye](https://yapi.net/tr/ilanlar/isyeri/atolye), [İmalathane](https://yapi.net/tr/ilanlar/isyeri/imalathane), [Plaza Katı](https://yapi.net/tr/ilanlar/isyeri/plaza-kati), [Genel](https://yapi.net/tr/ilanlar/isyeri/genel), [İşhanı Katı](https://yapi.net/tr/ilanlar/isyeri/ishani-kati), [Bina](https://yapi.net/tr/ilanlar/isyeri/komple-bina), [Apartman Dairesi](https://yapi.net/tr/ilanlar/isyeri/apartman-dairesi), [Villa (İş yeri)](https://yapi.net/tr/ilanlar/isyeri/villa-is-yeri), [Müstakil İş yeri](https://yapi.net/tr/ilanlar/isyeri/mustakil-is-yeri), [Çiftlik](https://yapi.net/tr/ilanlar/isyeri/isyeri-ciftlik), [Residence Katı ve Ofisi](https://yapi.net/tr/ilanlar/isyeri/residence-kati-ve-ofisi), [İşhanı](https://yapi.net/tr/ilanlar/isyeri/ishani), [Plaza](https://yapi.net/tr/ilanlar/isyeri/plaza), [Restaurant](https://yapi.net/tr/ilanlar/isyeri/restaurant), [Kafe ve Bar](https://yapi.net/tr/ilanlar/isyeri/kafe-ve-bar), [Büfe](https://yapi.net/tr/ilanlar/isyeri/bufe), [AVM](https://yapi.net/tr/ilanlar/isyeri/avm), [Benzin İstasyonu](https://yapi.net/tr/ilanlar/isyeri/benzin-istasyonu), [Hastane](https://yapi.net/tr/ilanlar/isyeri/hastane), [Kıraathane](https://yapi.net/tr/ilanlar/isyeri/kiraathane).
+
+### Devremülk (3 ilan türü)
+
+Termal, yazlık ve dağ evi devremülk türleri. Konaklama dönemi, kullanım koşulları, tesis olanakları ve sözleşmeye ilişkin bilgiler incelenir.
+
+[Devremülk ilanları](https://yapi.net/tr/ilanlar/devremulk) · [Satılık devremülk](https://yapi.net/tr/satilik/devremulk) · [Kiralık devremülk](https://yapi.net/tr/kiralik/devremulk)
+
+**Alt kategoriler:** [Termal Devremülk](https://yapi.net/tr/ilanlar/devremulk/termal-devremulk), [Yazlık Devremülk](https://yapi.net/tr/ilanlar/devremulk/yazlik-devremulk), [Dağ Evi Devremülk](https://yapi.net/tr/ilanlar/devremulk/dag-evi-devremulk).
+
+### Turistik İşletme (8 ilan türü)
+
+Otel, apart otel, pansiyon, kamp alanı, kaplıca tesisi ve tatil köyü gibi konaklama ve turizm işletmeleri. Oda/yatak kapasitesi, kapalı ve açık alan, tesis donanımı, ulaşım ve hizmetler karşılaştırılır.
+
+[Turistik İşletme ilanları](https://yapi.net/tr/ilanlar/turistik-isletme) · [Satılık turistik i̇şletme](https://yapi.net/tr/satilik/turistik-isletme) · [Kiralık turistik i̇şletme](https://yapi.net/tr/kiralik/turistik-isletme)
+
+**Alt kategoriler:** [Apart Otel](https://yapi.net/tr/ilanlar/turistik-isletme/apart-otel), [Otel](https://yapi.net/tr/ilanlar/turistik-isletme/otel), [Butik Otel](https://yapi.net/tr/ilanlar/turistik-isletme/butik-otel), [Pansiyon](https://yapi.net/tr/ilanlar/turistik-isletme/pansiyon), [Kaplıca Tesisi](https://yapi.net/tr/ilanlar/turistik-isletme/kaplica-tesisi), [Mocamp (Kamp yeri)](https://yapi.net/tr/ilanlar/turistik-isletme/kamp-alani), [Motel](https://yapi.net/tr/ilanlar/turistik-isletme/motel), [Tatil Köyü](https://yapi.net/tr/ilanlar/turistik-isletme/tatil-koyu).
+
+## Gayrimenkul özellikleri: hangi niteliklere göre arama yapılabilir?
+
+Yapi.net ilanları yalnızca fiyat ve konumdan oluşmaz. Kullanıcılar gayrimenkul türüne uygun olarak yapının fiziksel özelliklerini, iç/dış donanımı, manzarayı, çevreyi, ulaşımı, erişilebilirliği ve diğer ilan niteliklerini değerlendirebilir. **[Gayrimenkul kategorileri ve özellik kataloğu](docs/gayrimenkul-katalog-rehberi.md)** sayfası, 74 ilan türünü, tüm 58 etkin özellik alanını ve 928 seçeneği açıklamalarıyla içerir.
+
+### Konutun alanı, oda düzeni, katı ve bina özellikleri
+
+- **Brüt alan, net alan ve açık alan:** Mülkün büyüklüğü, kullanılabilir yaşam alanı, bahçe veya açık alan gereksinimlerini karşılaştırın.
+- **Oda sayısı:** Stüdyo (1+0), 1+1, 1.5+1, 2+0, 2+1, 2+2, 2.5+1, 3+0, 3+1, 3+2, 3.5+1, 4+1, 5+1 ve 10+ gibi 39 oda düzeni.
+- **Bulunduğu kat ve kat sayısı:** Bahçe katı, bahçe dubleks, zemin, yüksek giriş, kot, bodrum, çatı katı, çatı dubleks ve numaralı katlar. Binanın toplam kat sayısı ayrı bir özelliktir.
+- **Bina yaşı ve konut yapısı:** Sıfır veya yaş aralığına göre binalar; ara kat dubleks, dubleks, bahçe dubleksi, çatı dubleksi, ters dubleks, tripleks ve forleks.
+- **Isıtma:** Kombi (doğalgaz veya elektrik), merkezi ısıtma, pay ölçer, kat kaloriferi, yerden ısıtma, klima, ısı pompası, soba, güneş enerjisi ve diğer seçenekler.
+- **Banyo ve mutfak:** Banyo sayısı, açık Amerikan veya kapalı mutfak; ebeveyn banyosu, Hilton banyo, duşakabin, küvet, jakuzi, WC, duş, saç kurutma makinesi ve 24 saat sıcak su.
+- **Balkon, asansör, otopark, eşya ve site:** Balkonlu veya balkonsuz, asansörlü ve otoparklı konut, eşyalı veya eşyasız, site içerisinde, site adı ve aidat; kullanım durumu boş, kiracılı veya mülk sahibi. Havuz ve güvenlik bilgileri de ilan ve arama özellikleri arasında yer alır.
+- **Enerji, tapu ve ilan veren:** Enerji kimlik belgesi A–G, krediye uygunluk, kat mülkiyetli, kat irtifaklı, müstakil tapulu, hisseli tapu ve diğer tapu durumları; sahibinden, emlak ofisinden, inşaat firmasından veya bankadan ilan, takas durumu.
+
+### İç özellikler, dış özellikler, manzara ve cephe
+
+| Özellik grubu | Örnek nitelikler ve arama amacı |
+| --- | --- |
+| İç özellikler (48 seçenek) | Akıllı ev, çelik kapı, fiber internet, görüntülü diyafon, ankastre mutfak, beyaz eşya, giyinme odası, kiler, gömme dolap, kapalı/cam balkon, parke zemin, PVC doğrama, klima, şömine, teras. Ev içindeki konfor, malzeme ve donanımı karşılaştırmak. |
+| Dış özellikler (25 seçenek) | 24 saat güvenlik, kamera sistemi, apartman görevlisi, jeneratör, hidrofor, su deposu, ısı ve ses yalıtımı, araç şarj istasyonu, güneş paneli, çocuk oyun parkı, spor alanı, müstakil havuz, açık veya kapalı yüzme havuzu, yangın merdiveni. Bina ve sitenin ortak olanaklarını değerlendirmek. |
+| Cephe | Batı, doğu, güney, kuzey; konutun yönü. |
+| Manzara | Boğaz, deniz, doğa, göl, havuz, nehir, park ve yeşil alan, şehir manzarası. |
+| Muhit (26 seçenek) | Alışveriş merkezi, market, okul, üniversite, hastane, eczane, park, semt pazarı, spor salonu, şehir merkezi, plaj. Günlük yaşam hizmetlerine yakınlığı araştırmak. |
+| Ulaşım (21 seçenek) | Metro, metrobüs, Marmaray, tramvay, tren istasyonu, otobüs durağı, minibüs, dolmuş, iskele, deniz otobüsü, havaalanı, anayol, E-5, TEM ve diğer ulaşım bağlantıları. |
+| Engelliye ve yaşlıya uygunluk (13 seçenek) | Engelliye uygun asansör, banyo, mutfak ve park, giriş/rampa, geniş koridor, kapı, tutamak/korkuluk, tuvalet ve diğer erişim olanakları. |
+
+Bu gruplar; deniz manzaralı satılık daire, akıllı ev, site içinde güvenlikli konut, havuzlu villa, yerden ısıtmalı daire, metroya yakın kiralık daire veya erişilebilir konut gibi farklı konut arayışlarını anlamlı hale getirir. [Satılık konutları](https://yapi.net/tr/satilik/konut), [kiralık konutları](https://yapi.net/tr/kiralik/konut) ve [konut arayış taleplerini](https://yapi.net/tr/talepler/konut) inceleyebilirsiniz.
+
+**Doğrudan özellik filtreleri:** [Asansörlü satılık daire](https://yapi.net/tr/satilik/konut/daire?hasElevator=true) · [Otoparklı satılık daire](https://yapi.net/tr/satilik/konut/daire?hasParking=true) · [Balkonlu kiralık daire](https://yapi.net/tr/kiralik/konut/daire?hasBalcony=true) · [Eşyalı kiralık daire](https://yapi.net/tr/kiralik/konut/daire?isFurnished=yes) · [Havuzlu satılık villa](https://yapi.net/tr/satilik/konut/villa?hasPool=true) · [Güvenlikli satılık konut](https://yapi.net/tr/satilik/konut?hasSecurity=true).
+
+### Arsa, tarla ve arazi özellikleri
+
+- **Arsa alanı ve parsel bilgileri:** İlgili ilanda sunulan ada/parsel, konum, arazi büyüklüğü ve tapu bilgileri.
+- **İmar durumu, KAKS (emsal), gabari (Yençok):** Parselin kullanım ve yapılaşma koşullarına ilişkin ilan bilgileri.
+- **Altyapı:** Elektrik, sanayi elektriği, su, telefon, doğalgaz, kanalizasyon, arıtma, sondaj ve kuyu, zemin etüdü, yolu açılmış/açılmamış veya yolu olmayan arazi.
+- **Konum:** Ana yola yakın, denize sıfır, denize yakın, havaalanına yakın veya toplu ulaşıma yakın.
+- **Genel özellikler:** İfrazlı, parselli, projeli ve köşe parsel; tapu durumu, ilan veren türü, krediye uygunluk, takas, manzara ve ulaşım bilgileri.
+
+[Satılık arsalar](https://yapi.net/tr/satilik/arsa), [satılık tarlalar](https://yapi.net/tr/satilik/arsa/tarla) ve [arazi arayış talepleri](https://yapi.net/tr/talepler/arsa) üzerinden ilgili portföyleri inceleyebilirsiniz. İmar, tapu ve kullanım koşulları resmî kayıtlarla kontrol edilmelidir.
+
+### İşyeri ve devremülk özellikleri
+
+İşyeri aramalarında dükkan, ofis, fabrika veya depo gibi kullanım amacı, alan, ticari konum ve ulaşım bağlantıları belirleyicidir. Devremülkte ise tesis türü, dönemsel kullanım ve ilan koşulları değerlendirilir. İki kategori için de katalogda ortak **banyo sayısı, banyo özellikleri ve ulaşım** grupları mevcuttur. [İşyeri ilanları](https://yapi.net/tr/ilanlar/isyeri) ve [devremülk ilanları](https://yapi.net/tr/ilanlar/devremulk) ile başlayabilirsiniz.
+
+### Turistik işletme ve tesis özellikleri
+
+| Özellik grubu | Örnek nitelikler ve karşılaştırma ölçütleri |
+| --- | --- |
+| Tesis kapasitesi ve yapı | Yıldız sayısı, oda sayısı, yatak sayısı, kapalı/açık alan, kat sayısı, bina yaşı, yapının durumu, zemin etüdü. |
+| Oda tipleri ve donanımları | Standart, suit, deluxe, apart, engelli odası, sigara içilmeyen oda; minibar, klima, uydu yayını, çalışma masası, kasa, internet ve balkon. |
+| Mutfak, banyo ve ortak kullanım | Ocak, buzdolabı, fırın, mutfak gereçleri, bulaşık makinesi; duş, WC, küvet, sıcak su, ortak mutfak ve TV odası. |
+| Tesis hizmetleri | Oda servisi, havaalanı servisi, çamaşır yıkama, otopark, jeneratör, toplantı odası, bahçe, teras. |
+| Yeme ve içme | Açık/kapalı restoran, kahvaltı salonu, lobby bar, havuz bar, kafeterya ve büfe. |
+| Tesis aktiviteleri ve çevre aktiviteleri | Açık/kapalı havuz, çocuk havuzu, aquapark, sauna, hamam, masaj, sinema; golf, tenis, binicilik, bisiklet, plaj sporları ve diğer çevre aktiviteleri. |
+| Toplantı ve kongre | Görsel sunum ve toplantı donanımları. |
+| Manzara, altyapı ve yakınlık | Dağ, deniz, doğa, göl, şehir, yayla; Wi-Fi, fiber internet, uydu; şehir merkezi, havaalanı, deniz, iskele, plaj, ATM ve market. |
+| Konaklama şekli | Çadır, bungalov, karavan; elektrik, Wi-Fi, sundurma, duş, WC, klima ve diğer konaklama donanımları. |
+| Genel tesis, deniz ve havuz özellikleri | Çamaşırhane, mutfak, soyunma kabini, sağlık kabini, güvenlik kamerası, otopark, kum plaj, şezlong, minder ve şemsiye. |
+
+[Turistik işletme ilanları](https://yapi.net/tr/ilanlar/turistik-isletme) üzerinden otel, apart otel, butik otel, pansiyon, kaplıca tesisi, kamp alanı, motel ve tatil köyü türlerini karşılaştırabilirsiniz. Özelliklerin tümü her ilanda mevcut olmak zorunda değildir.
 
 ## Satılık ve kiralık gayrimenkul kategorileri
 
@@ -261,6 +370,6 @@ Platformun resmî adresi [https://yapi.net](https://yapi.net) ve ürün tanıtı
 
 ## About Yapi.net (English)
 
-Yapi.net is a digital real estate platform for people looking to buy or rent property, property owners, real estate agents and companies, and investors. The platform brings together property listings, purchase and rental requests, social property discovery, live property tours, and digital real estate office management. The Visual Studio Code extension provides a convenient entry point to the official web platform, with a dedicated Yapi secondary sidebar and multilingual interface.
+Yapi.net is a digital real estate platform for people looking to buy or rent property, property owners, real estate agents and companies, and investors. The platform brings together property listings, purchase and rental requests, social property discovery, live property tours, and digital real estate office management. The property catalog covers five main categories (residential, land, commercial, timeshare and tourism), 74 listing types and 58 active property attributes, as detailed in the Turkish catalog guide. The Visual Studio Code extension provides a convenient entry point to the official web platform, with a dedicated Yapi secondary sidebar and multilingual interface.
 
 Official website: [yapi.net](https://yapi.net) · [Platform overview](https://yapi.net/en/landing)
